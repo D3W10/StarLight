@@ -1,0 +1,27 @@
+{
+    "name": "starlight",
+    "displayName": "StarLight",
+    "description": "A theme beyond the stars!",
+    "version": "0.1.0",
+    "publisher": "D3W10",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/D3W10/StarLight"
+    },
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "StarLight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Starlight-color-theme.json"
+            }
+        ]
+    }
+}
