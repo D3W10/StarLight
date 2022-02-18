@@ -10,13 +10,9 @@
 		"badge.background": "#20B2AB",
 		"badge.foreground": "#170A1F",
 		"icon.foreground": "#20B2AB",
-		"imagePreview.border": "#512888",
 		"settings.headerForeground": "#C7C7CC",
         "window.activeBorder": "#512888",
 		"window.inactiveBorder":"#401E63",
-		
-		"welcomePage.buttonBackground": "#2E143D",
-		"welcomePage.buttonHoverBackground": "#230F2E",
 		
 		"extensionButton.prominentBackground": "#20B2AB",
         "extensionButton.prominentHoverBackground": "#198c86",
@@ -277,7 +273,7 @@
         "terminal.foreground": "#E5E5EA",
 		"terminal.selectionBackground": "#512888",
 		
-		"terminal.ansiBlack": "#2C2C2E",
+		"terminal.ansiBlack": "#8E8E93",
         "terminal.ansiRed": "#FF3B30",
         "terminal.ansiGreen": "#34C759",
         "terminal.ansiYellow": "#FFCC00",
@@ -285,7 +281,7 @@
         "terminal.ansiMagenta": "#AF52DE",
         "terminal.ansiCyan": "#5AC8FA",
         "terminal.ansiWhite": "#C7C7CC",
-        "terminal.ansiBrightBlack": "#2C2C2E",
+        "terminal.ansiBrightBlack": "#8E8E93",
         "terminal.ansiBrightRed": "#FF3B30",
         "terminal.ansiBrightGreen": "#34C759",
         "terminal.ansiBrightYellow": "#FFCC00",
@@ -690,7 +686,8 @@
 		{
 			"name": "JSON Punctuation",
 			"scope": [
-				"meta.object-literal.key.js"
+				"meta.object-literal.key.js",
+				"support.variable.property.js"
 			],
 			"settings": {
 				"foreground": "#8ADEFF"
@@ -981,6 +978,43 @@
 			],
 			"settings": {
 				"foreground": "#F0FFFF"
+			}
+		},
+		{
+			"name": "SQL - Keyword",
+			"scope": [
+				"keyword.other"
+			],
+			"settings": {
+				"foreground": "#CC80FF"
+			}
+		},
+		{
+			"name": "SQL - Variable",
+			"scope": [
+				"text.variable"
+			],
+			"settings": {
+				"foreground": "#FFBF47"
+			}
+		},
+		{
+			"name": "SQL - Operator",
+			"scope": [
+				"keyword.operator"
+			],
+			"settings": {
+				"foreground": "#8ADEFF"
+			}
+		},
+		{
+			"name": "SQL - Single Quote",
+			"scope": [
+				"punctuation.definition.string",
+				"text.bracketed"
+			],
+			"settings": {
+				"foreground": "#C8FF75"
 			}
 		}
 	]

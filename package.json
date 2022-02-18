@@ -2,7 +2,7 @@
     "name": "starlight",
     "displayName": "StarLight",
     "description": "A theme beyond the stars!",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "D3W10",
     "icon": "icon.png",
     "repository": {
@@ -10,7 +10,7 @@
         "url": "https://github.com/D3W10/StarLight"
     },
     "engines": {
-        "vscode": "^1.52.0"
+        "vscode": "^1.64.0"
     },
     "categories": [
         "Themes"

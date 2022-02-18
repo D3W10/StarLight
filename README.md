@@ -23,7 +23,7 @@ In case of StarLight theme has an inconsistency in any language, create an Issue
 ***
 
 ## Credits
-* Made by [D3W10](https://d3w10.netlify.app)
+* Made by [D3W10](https://d3w10.netlify.app/)
 * Used some colors of [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/)
 
 *From the Earth to the stars*
