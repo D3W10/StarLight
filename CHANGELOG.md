@@ -7,3 +7,8 @@
 ## 0.1.1
 
 - Improved some colors on the terminal.
+
+## 0.1.2
+
+- Markdown syntax improvements.
+- Improved terminal colors.
