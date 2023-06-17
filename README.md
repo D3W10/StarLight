@@ -7,7 +7,7 @@
     <br />
     <br />
     <h2 align="center">Starlight</h2>
-    <h3 align="center">Song downloader with metadata</h3>
+    <h3 align="center">A theme beyond the stars!</h3>
     <br />
     <p align="center">
         <a href="https://marketplace.visualstudio.com/items?itemName=D3W10.starlight">Store Page</a>
@@ -33,7 +33,7 @@
 
 ## About
 
-A Theme for Visual Studio Code based on Purple and Sea Green colors. This theme provides full Workbench customisation and code colors for the most famous languages.
+A theme for Visual Studio Code based on Purple and Sea Green colors. This theme provides full Workbench customisation and code colors for the most famous languages.
 
 > StarLight is considered a Dark theme.
 
