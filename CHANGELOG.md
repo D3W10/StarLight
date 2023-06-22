@@ -10,5 +10,10 @@
 
 ## 0.1.2
 
-- Markdown syntax improvements.
+- Markdown syntax improvements;
 - Improved terminal colors.
+
+## 0.1.3
+
+- General improvements;
+- Added LICENSE.

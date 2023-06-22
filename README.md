@@ -26,7 +26,8 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
 3. [Issues and Improvements](#issues-and-improvements)
-4. [Credits](#credits)
+4. [License](#license)
+5. [Credits](#credits)
 
 <br />
 <br />
@@ -74,7 +75,15 @@ In order to use this theme, you will need the following:
 <br />
 
 ## Issues and Improvements
+
 In case there's an inconsistency in any language, create an issue on [GitHub](https://github.com/D3W10/StarLight) and provide a sample for of it.
+
+<br />
+<br />
+
+## License
+
+Distributed under the Mozilla Public License 2.0. See `LICENSE` for more details.
 
 <br />
 <br />

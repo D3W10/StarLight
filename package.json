@@ -1,8 +1,8 @@
 {
     "name": "starlight",
     "displayName": "StarLight",
+    "version": "0.1.3",
     "description": "A theme beyond the stars!",
-    "version": "0.1.2",
     "publisher": "D3W10",
     "icon": "icon.png",
     "repository": {
