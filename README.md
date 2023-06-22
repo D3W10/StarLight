@@ -2,7 +2,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/D3W10/StarLight">
-        <img src="./icon.png" alt="Logo" width="60" height="60">
+        <img src="https://raw.githubusercontent.com/D3W10/StarLight/master/icon.png" alt="Logo" width="60" height="60">
     </a>
     <br />
     <br />
@@ -14,7 +14,7 @@
         ·
         <a href="https://github.com/D3W10/StarLight">Theme Page</a>
         ·
-        <a href="./issues">Report Bug</a>
+        <a href="https://github.com/D3W10/StarLight/issues">Report Bug</a>
     </p>
 </div>
 <br />
